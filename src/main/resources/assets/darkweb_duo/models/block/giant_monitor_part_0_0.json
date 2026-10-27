@@ -1,0 +1,75 @@
+{
+ "parent": "minecraft:block/block",
+ "ambientocclusion": false,
+ "textures": {
+  "a": "darkweb_duo:block/monitor_casing_a",
+  "b": "darkweb_duo:block/monitor_casing_b",
+  "edge": "darkweb_duo:block/monitor_casing_edge",
+  "vent": "darkweb_duo:block/monitor_casing_vent",
+  "logo": "darkweb_duo:block/monitor_back_logo",
+  "ports": "darkweb_duo:block/monitor_back_ports",
+  "particle": "darkweb_duo:block/monitor_casing_a"
+ },
+ "elements": [
+  {
+   "from": [
+    0.0,
+    0.0,
+    10.0
+   ],
+   "to": [
+    16.0,
+    16.0,
+    13.5
+   ],
+   "faces": {
+    "south": {
+     "texture": "#a"
+    },
+    "east": {
+     "texture": "#edge"
+    }
+   }
+  },
+  {
+   "from": [
+    0.0,
+    0.0,
+    13.5
+   ],
+   "to": [
+    14.5,
+    16.0,
+    15.0
+   ],
+   "faces": {
+    "south": {
+     "texture": "#a"
+    },
+    "east": {
+     "texture": "#edge"
+    }
+   }
+  },
+  {
+   "from": [
+    0.0,
+    0.0,
+    15.0
+   ],
+   "to": [
+    13.0,
+    16.0,
+    16.0
+   ],
+   "faces": {
+    "south": {
+     "texture": "#a"
+    },
+    "east": {
+     "texture": "#edge"
+    }
+   }
+  }
+ ]
+}

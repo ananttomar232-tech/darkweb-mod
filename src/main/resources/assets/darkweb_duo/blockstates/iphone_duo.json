@@ -1,0 +1,34 @@
+{
+ "variants": {
+  "facing=north,open=false": {
+   "model": "darkweb_duo:block/iphone_duo"
+  },
+  "facing=north,open=true": {
+   "model": "darkweb_duo:block/iphone_duo"
+  },
+  "facing=east,open=false": {
+   "model": "darkweb_duo:block/iphone_duo",
+   "y": 90
+  },
+  "facing=east,open=true": {
+   "model": "darkweb_duo:block/iphone_duo",
+   "y": 90
+  },
+  "facing=south,open=false": {
+   "model": "darkweb_duo:block/iphone_duo",
+   "y": 180
+  },
+  "facing=south,open=true": {
+   "model": "darkweb_duo:block/iphone_duo",
+   "y": 180
+  },
+  "facing=west,open=false": {
+   "model": "darkweb_duo:block/iphone_duo",
+   "y": 270
+  },
+  "facing=west,open=true": {
+   "model": "darkweb_duo:block/iphone_duo",
+   "y": 270
+  }
+ }
+}

@@ -1,0 +1,7 @@
+{
+ "parent": "minecraft:block/door_top_left_open",
+ "textures": {
+  "bottom": "darkweb_duo:block/keycard_door_bottom",
+  "top": "darkweb_duo:block/keycard_door_top"
+ }
+}

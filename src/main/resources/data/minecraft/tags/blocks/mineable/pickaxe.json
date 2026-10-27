@@ -1,0 +1,13 @@
+{
+ "replace": false,
+ "values": [
+  "darkweb_duo:giant_monitor",
+  "darkweb_duo:giant_keyboard",
+  "darkweb_duo:giant_mouse",
+  "darkweb_duo:delivery_box",
+  "darkweb_duo:omega_delivery_box",
+  "darkweb_duo:keycard_door",
+  "darkweb_duo:omega_terminal",
+  "darkweb_duo:iphone_duo"
+ ]
+}

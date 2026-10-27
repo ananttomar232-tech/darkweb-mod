@@ -1,0 +1,24 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "misc",
+ "pattern": [
+  " B ",
+  "ISI",
+  " I "
+ ],
+ "key": {
+  "B": {
+   "item": "minecraft:stone_button"
+  },
+  "S": {
+   "item": "minecraft:redstone"
+  },
+  "I": {
+   "item": "minecraft:iron_ingot"
+  }
+ },
+ "result": {
+  "item": "darkweb_duo:giant_mouse",
+  "count": 1
+ }
+}

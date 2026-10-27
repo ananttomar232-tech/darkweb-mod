@@ -1,0 +1,24 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "misc",
+ "pattern": [
+  "GGG",
+  "GRG",
+  "III"
+ ],
+ "key": {
+  "G": {
+   "item": "minecraft:glass_pane"
+  },
+  "R": {
+   "item": "minecraft:redstone_block"
+  },
+  "I": {
+   "item": "minecraft:iron_block"
+  }
+ },
+ "result": {
+  "item": "darkweb_duo:giant_monitor",
+  "count": 1
+ }
+}

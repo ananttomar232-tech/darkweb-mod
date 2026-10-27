@@ -1,0 +1,229 @@
+{
+ "variants": {
+  "facing=north,px=0,py=0": {
+   "model": "darkweb_duo:block/giant_monitor_part_0_0"
+  },
+  "facing=north,px=0,py=1": {
+   "model": "darkweb_duo:block/giant_monitor_part_0_1"
+  },
+  "facing=north,px=0,py=2": {
+   "model": "darkweb_duo:block/giant_monitor_part_0_2"
+  },
+  "facing=north,px=1,py=0": {
+   "model": "darkweb_duo:block/giant_monitor_part_1_0"
+  },
+  "facing=north,px=1,py=1": {
+   "model": "darkweb_duo:block/giant_monitor_part_1_1"
+  },
+  "facing=north,px=1,py=2": {
+   "model": "darkweb_duo:block/giant_monitor_part_1_2"
+  },
+  "facing=north,px=2,py=0": {
+   "model": "darkweb_duo:block/giant_monitor_part_2_0"
+  },
+  "facing=north,px=2,py=1": {
+   "model": "darkweb_duo:block/giant_monitor_part_2_1"
+  },
+  "facing=north,px=2,py=2": {
+   "model": "darkweb_duo:block/giant_monitor_part_2_2"
+  },
+  "facing=north,px=3,py=0": {
+   "model": "darkweb_duo:block/giant_monitor_part_3_0"
+  },
+  "facing=north,px=3,py=1": {
+   "model": "darkweb_duo:block/giant_monitor_part_3_1"
+  },
+  "facing=north,px=3,py=2": {
+   "model": "darkweb_duo:block/giant_monitor_part_3_2"
+  },
+  "facing=north,px=4,py=0": {
+   "model": "darkweb_duo:block/giant_monitor_part_4_0"
+  },
+  "facing=north,px=4,py=1": {
+   "model": "darkweb_duo:block/giant_monitor_part_4_1"
+  },
+  "facing=north,px=4,py=2": {
+   "model": "darkweb_duo:block/giant_monitor_part_4_2"
+  },
+  "facing=east,px=0,py=0": {
+   "model": "darkweb_duo:block/giant_monitor_part_0_0",
+   "y": 90
+  },
+  "facing=east,px=0,py=1": {
+   "model": "darkweb_duo:block/giant_monitor_part_0_1",
+   "y": 90
+  },
+  "facing=east,px=0,py=2": {
+   "model": "darkweb_duo:block/giant_monitor_part_0_2",
+   "y": 90
+  },
+  "facing=east,px=1,py=0": {
+   "model": "darkweb_duo:block/giant_monitor_part_1_0",
+   "y": 90
+  },
+  "facing=east,px=1,py=1": {
+   "model": "darkweb_duo:block/giant_monitor_part_1_1",
+   "y": 90
+  },
+  "facing=east,px=1,py=2": {
+   "model": "darkweb_duo:block/giant_monitor_part_1_2",
+   "y": 90
+  },
+  "facing=east,px=2,py=0": {
+   "model": "darkweb_duo:block/giant_monitor_part_2_0",
+   "y": 90
+  },
+  "facing=east,px=2,py=1": {
+   "model": "darkweb_duo:block/giant_monitor_part_2_1",
+   "y": 90
+  },
+  "facing=east,px=2,py=2": {
+   "model": "darkweb_duo:block/giant_monitor_part_2_2",
+   "y": 90
+  },
+  "facing=east,px=3,py=0": {
+   "model": "darkweb_duo:block/giant_monitor_part_3_0",
+   "y": 90
+  },
+  "facing=east,px=3,py=1": {
+   "model": "darkweb_duo:block/giant_monitor_part_3_1",
+   "y": 90
+  },
+  "facing=east,px=3,py=2": {
+   "model": "darkweb_duo:block/giant_monitor_part_3_2",
+   "y": 90
+  },
+  "facing=east,px=4,py=0": {
+   "model": "darkweb_duo:block/giant_monitor_part_4_0",
+   "y": 90
+  },
+  "facing=east,px=4,py=1": {
+   "model": "darkweb_duo:block/giant_monitor_part_4_1",
+   "y": 90
+  },
+  "facing=east,px=4,py=2": {
+   "model": "darkweb_duo:block/giant_monitor_part_4_2",
+   "y": 90
+  },
+  "facing=south,px=0,py=0": {
+   "model": "darkweb_duo:block/giant_monitor_part_0_0",
+   "y": 180
+  },
+  "facing=south,px=0,py=1": {
+   "model": "darkweb_duo:block/giant_monitor_part_0_1",
+   "y": 180
+  },
+  "facing=south,px=0,py=2": {
+   "model": "darkweb_duo:block/giant_monitor_part_0_2",
+   "y": 180
+  },
+  "facing=south,px=1,py=0": {
+   "model": "darkweb_duo:block/giant_monitor_part_1_0",
+   "y": 180
+  },
+  "facing=south,px=1,py=1": {
+   "model": "darkweb_duo:block/giant_monitor_part_1_1",
+   "y": 180
+  },
+  "facing=south,px=1,py=2": {
+   "model": "darkweb_duo:block/giant_monitor_part_1_2",
+   "y": 180
+  },
+  "facing=south,px=2,py=0": {
+   "model": "darkweb_duo:block/giant_monitor_part_2_0",
+   "y": 180
+  },
+  "facing=south,px=2,py=1": {
+   "model": "darkweb_duo:block/giant_monitor_part_2_1",
+   "y": 180
+  },
+  "facing=south,px=2,py=2": {
+   "model": "darkweb_duo:block/giant_monitor_part_2_2",
+   "y": 180
+  },
+  "facing=south,px=3,py=0": {
+   "model": "darkweb_duo:block/giant_monitor_part_3_0",
+   "y": 180
+  },
+  "facing=south,px=3,py=1": {
+   "model": "darkweb_duo:block/giant_monitor_part_3_1",
+   "y": 180
+  },
+  "facing=south,px=3,py=2": {
+   "model": "darkweb_duo:block/giant_monitor_part_3_2",
+   "y": 180
+  },
+  "facing=south,px=4,py=0": {
+   "model": "darkweb_duo:block/giant_monitor_part_4_0",
+   "y": 180
+  },
+  "facing=south,px=4,py=1": {
+   "model": "darkweb_duo:block/giant_monitor_part_4_1",
+   "y": 180
+  },
+  "facing=south,px=4,py=2": {
+   "model": "darkweb_duo:block/giant_monitor_part_4_2",
+   "y": 180
+  },
+  "facing=west,px=0,py=0": {
+   "model": "darkweb_duo:block/giant_monitor_part_0_0",
+   "y": 270
+  },
+  "facing=west,px=0,py=1": {
+   "model": "darkweb_duo:block/giant_monitor_part_0_1",
+   "y": 270
+  },
+  "facing=west,px=0,py=2": {
+   "model": "darkweb_duo:block/giant_monitor_part_0_2",
+   "y": 270
+  },
+  "facing=west,px=1,py=0": {
+   "model": "darkweb_duo:block/giant_monitor_part_1_0",
+   "y": 270
+  },
+  "facing=west,px=1,py=1": {
+   "model": "darkweb_duo:block/giant_monitor_part_1_1",
+   "y": 270
+  },
+  "facing=west,px=1,py=2": {
+   "model": "darkweb_duo:block/giant_monitor_part_1_2",
+   "y": 270
+  },
+  "facing=west,px=2,py=0": {
+   "model": "darkweb_duo:block/giant_monitor_part_2_0",
+   "y": 270
+  },
+  "facing=west,px=2,py=1": {
+   "model": "darkweb_duo:block/giant_monitor_part_2_1",
+   "y": 270
+  },
+  "facing=west,px=2,py=2": {
+   "model": "darkweb_duo:block/giant_monitor_part_2_2",
+   "y": 270
+  },
+  "facing=west,px=3,py=0": {
+   "model": "darkweb_duo:block/giant_monitor_part_3_0",
+   "y": 270
+  },
+  "facing=west,px=3,py=1": {
+   "model": "darkweb_duo:block/giant_monitor_part_3_1",
+   "y": 270
+  },
+  "facing=west,px=3,py=2": {
+   "model": "darkweb_duo:block/giant_monitor_part_3_2",
+   "y": 270
+  },
+  "facing=west,px=4,py=0": {
+   "model": "darkweb_duo:block/giant_monitor_part_4_0",
+   "y": 270
+  },
+  "facing=west,px=4,py=1": {
+   "model": "darkweb_duo:block/giant_monitor_part_4_1",
+   "y": 270
+  },
+  "facing=west,px=4,py=2": {
+   "model": "darkweb_duo:block/giant_monitor_part_4_2",
+   "y": 270
+  }
+ }
+}

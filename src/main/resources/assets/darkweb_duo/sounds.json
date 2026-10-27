@@ -1,0 +1,450 @@
+{
+  "box_charge": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:box_charge"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.box_charge"
+  },
+  "box_open": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:box_open"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.box_open"
+  },
+  "box_burst": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:box_burst"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.box_burst"
+  },
+  "card_whoosh": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:card_whoosh"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.card_whoosh"
+  },
+  "keycard_pickup": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:keycard_pickup"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.keycard_pickup"
+  },
+  "door_unlock": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:door_unlock"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.door_unlock"
+  },
+  "door_open": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:door_open"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.door_open"
+  },
+  "door_close": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:door_close"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.door_close"
+  },
+  "door_denied": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:door_denied"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.door_denied"
+  },
+  "monitor_boot": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:monitor_boot"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.monitor_boot"
+  },
+  "monitor_off": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:monitor_off"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.monitor_off"
+  },
+  "key_click": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:key_click"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.key_click"
+  },
+  "mouse_click": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:mouse_click"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.mouse_click"
+  },
+  "order_confirm": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:order_confirm"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.order_confirm"
+  },
+  "delivery_drop": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:delivery_drop"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.delivery_drop"
+  },
+  "terminal_insert": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:terminal_insert"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.terminal_insert"
+  },
+  "terminal_activate": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:terminal_activate"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.terminal_activate"
+  },
+  "terminal_hum": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:terminal_hum"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.terminal_hum"
+  },
+  "cutscene_riser": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:cutscene_riser"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.cutscene_riser"
+  },
+  "cutscene_boom": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:cutscene_boom"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.cutscene_boom"
+  },
+  "cutscene_glitch": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:cutscene_glitch"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.cutscene_glitch"
+  },
+  "boss1_theme": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:boss1_theme",
+        "stream": true
+      }
+    ]
+  },
+  "boss1_ambient": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:boss1_ambient"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.boss1_ambient"
+  },
+  "boss1_awaken": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:boss1_awaken"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.boss1_awaken"
+  },
+  "boss1_roar": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:boss1_roar"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.boss1_roar"
+  },
+  "boss1_hurt": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:boss1_hurt"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.boss1_hurt"
+  },
+  "boss1_death": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:boss1_death"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.boss1_death"
+  },
+  "boss1_slam": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:boss1_slam"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.boss1_slam"
+  },
+  "boss1_laser": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:boss1_laser"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.boss1_laser"
+  },
+  "boss1_charge": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:boss1_charge"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.boss1_charge"
+  },
+  "boss1_teleport": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:boss1_teleport"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.boss1_teleport"
+  },
+  "boss1_shoot": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:boss1_shoot"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.boss1_shoot"
+  },
+  "boss1_phase": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:boss1_phase"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.boss1_phase"
+  },
+  "boss1_step": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:boss1_step"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.boss1_step"
+  },
+  "boss2_theme": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:boss2_theme",
+        "stream": true
+      }
+    ]
+  },
+  "boss2_ambient": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:boss2_ambient"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.boss2_ambient"
+  },
+  "boss2_summon": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:boss2_summon"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.boss2_summon"
+  },
+  "boss2_roar": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:boss2_roar"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.boss2_roar"
+  },
+  "boss2_hurt": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:boss2_hurt"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.boss2_hurt"
+  },
+  "boss2_death": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:boss2_death"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.boss2_death"
+  },
+  "boss2_slam": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:boss2_slam"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.boss2_slam"
+  },
+  "boss2_beam": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:boss2_beam"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.boss2_beam"
+  },
+  "boss2_charge": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:boss2_charge"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.boss2_charge"
+  },
+  "boss2_teleport": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:boss2_teleport"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.boss2_teleport"
+  },
+  "boss2_shoot": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:boss2_shoot"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.boss2_shoot"
+  },
+  "boss2_nova": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:boss2_nova"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.boss2_nova"
+  },
+  "boss2_phase": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:boss2_phase"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.boss2_phase"
+  },
+  "boss2_step": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:boss2_step"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.boss2_step"
+  },
+  "phone_fold": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:phone_fold"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.phone_fold"
+  },
+  "phone_unfold": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:phone_unfold"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.phone_unfold"
+  },
+  "phone_unlock": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:phone_unlock"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.phone_unlock"
+  },
+  "phone_tap": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:phone_tap"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.phone_tap"
+  },
+  "phone_boot": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:phone_boot"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.phone_boot"
+  },
+  "phone_shutter": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:phone_shutter"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.phone_shutter"
+  },
+  "phone_notify": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:phone_notify"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.phone_notify"
+  },
+  "phone_type": {
+    "sounds": [
+      {
+        "name": "darkweb_duo:phone_type"
+      }
+    ],
+    "subtitle": "subtitles.darkweb_duo.phone_type"
+  }
+}

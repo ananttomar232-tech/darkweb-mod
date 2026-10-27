@@ -1,0 +1,24 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "category": "misc",
+ "pattern": [
+  "BBB",
+  "SSS",
+  "III"
+ ],
+ "key": {
+  "B": {
+   "item": "minecraft:stone_button"
+  },
+  "S": {
+   "item": "minecraft:smooth_stone_slab"
+  },
+  "I": {
+   "item": "minecraft:iron_ingot"
+  }
+ },
+ "result": {
+  "item": "darkweb_duo:giant_keyboard",
+  "count": 1
+ }
+}

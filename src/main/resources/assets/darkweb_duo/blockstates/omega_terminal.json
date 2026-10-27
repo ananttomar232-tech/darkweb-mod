@@ -1,0 +1,10 @@
+{
+ "variants": {
+  "active=false": {
+   "model": "darkweb_duo:block/omega_terminal"
+  },
+  "active=true": {
+   "model": "darkweb_duo:block/omega_terminal_active"
+  }
+ }
+}

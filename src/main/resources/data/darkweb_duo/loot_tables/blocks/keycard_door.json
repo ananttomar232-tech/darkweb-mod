@@ -1,0 +1,27 @@
+{
+ "type": "minecraft:block",
+ "pools": [
+  {
+   "rolls": 1.0,
+   "bonus_rolls": 0.0,
+   "entries": [
+    {
+     "type": "minecraft:item",
+     "name": "darkweb_duo:keycard_door"
+    }
+   ],
+   "conditions": [
+    {
+     "condition": "minecraft:block_state_property",
+     "block": "darkweb_duo:keycard_door",
+     "properties": {
+      "half": "lower"
+     }
+    },
+    {
+     "condition": "minecraft:survives_explosion"
+    }
+   ]
+  }
+ ]
+}

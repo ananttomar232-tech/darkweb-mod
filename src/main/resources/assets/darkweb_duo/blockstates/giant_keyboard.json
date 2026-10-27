@@ -1,0 +1,34 @@
+{
+ "variants": {
+  "facing=north,pressed=false": {
+   "model": "darkweb_duo:block/giant_keyboard"
+  },
+  "facing=north,pressed=true": {
+   "model": "darkweb_duo:block/giant_keyboard_pressed"
+  },
+  "facing=east,pressed=false": {
+   "model": "darkweb_duo:block/giant_keyboard",
+   "y": 90
+  },
+  "facing=east,pressed=true": {
+   "model": "darkweb_duo:block/giant_keyboard_pressed",
+   "y": 90
+  },
+  "facing=south,pressed=false": {
+   "model": "darkweb_duo:block/giant_keyboard",
+   "y": 180
+  },
+  "facing=south,pressed=true": {
+   "model": "darkweb_duo:block/giant_keyboard_pressed",
+   "y": 180
+  },
+  "facing=west,pressed=false": {
+   "model": "darkweb_duo:block/giant_keyboard",
+   "y": 270
+  },
+  "facing=west,pressed=true": {
+   "model": "darkweb_duo:block/giant_keyboard_pressed",
+   "y": 270
+  }
+ }
+}
